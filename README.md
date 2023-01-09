@@ -1,5 +1,5 @@
 # Hello everyone! Welcome to my page :)
-My name is Melissa, i am 31 years old and i live in Hamburg. I am a Web Developer!
+My name is Melissa, i'm 31 years old and i live in Hamburg. I am a Web Developer!
 
 ![Happy](https://images.unsplash.com/photo-1519834785169-98be25ec3f84?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064&q=80)
 
