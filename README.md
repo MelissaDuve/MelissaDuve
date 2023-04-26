@@ -19,7 +19,7 @@ At the moment i'm a Web-Dev student at [neuefische](https://www.neuefische.de/en
 
 - Passion in sports
 - Programming
-- Web-Developement
+- Web-Development
 
 
 ![Happy](https://images.unsplash.com/photo-1519834785169-98be25ec3f84?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064&q=80)
